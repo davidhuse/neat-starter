@@ -28,7 +28,7 @@ tags:
 
 
 
-![](/static/img/photo_block.jpg)
+![abc](/static/img/photo_block.jpg "def")
 
 ## Lists
 
