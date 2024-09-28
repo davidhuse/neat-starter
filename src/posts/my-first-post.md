@@ -26,6 +26,10 @@ tags:
 
 *You **can** combine them*
 
+
+
+![](/static/img/photo_block.jpg)
+
 ## Lists
 
 ### Unordered
